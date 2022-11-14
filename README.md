@@ -15,6 +15,6 @@
 - to install maven, run following command ```wget https://dlcdn.apache.org/maven/maven-3/3.8.6/binaries/apache-maven-3.8.6-bin.tar.gz```
 - To untar ```tar -xzvf apache-maven-3.8.6-bin.tar.gz```
 ### Sources:
-- [jenkins install amazon linux](https://www.jenkins.io/doc/tutorials/tutorial-for-installing-jenkins-on-AWS/) - wget -O /etc/yum.repos.d/jenkins.repo
+- [jenkins install amazon linux](https://www.jenkins.io/doc/tutorials/tutorial-for-installing-jenkins-on-AWS/)
 - [maven](https://maven.apache.org/)
 - [tomcat](https://tomcat.apache.org/)
