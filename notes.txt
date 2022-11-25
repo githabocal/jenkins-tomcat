@@ -1,0 +1,4 @@
+Jenkins --> glue in the project
+virtualization vs containerization
+containers --> tool of the future (especially Docker container)
+ansible --> configuration management
